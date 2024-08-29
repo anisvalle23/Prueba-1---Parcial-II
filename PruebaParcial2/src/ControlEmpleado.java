@@ -115,7 +115,7 @@ public class ControlEmpleado {
                     }
                     break;
                 case 5:
-                    System.out.println("\nSaliendo del programa...");
+                    System.out.println("\nBye, Bye.");
                     break;
                 default:
                     System.out.println("\nOpción no válida. Intente de nuevo.");
